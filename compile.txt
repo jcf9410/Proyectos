@@ -1,0 +1,1 @@
+py -m PyInstaller --noconfirm --log-level=DEBUG --onefile --nowindow --add-data="JueguizadorBD.csv;csv" --icon=logo.ico   jueguizador.py

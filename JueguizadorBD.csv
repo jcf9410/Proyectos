@@ -1,0 +1,33 @@
+Nombre;Dificultad;Duración teórica;Jugadores Min;Jugadores Max;Coop;Competitivo;Tematica;Tiempo de preparación;Tiempo de explicación;Duración real;Expansión
+Uno;1;10;2;12;No;Sí;;1;1;10;No
+Dos;2;15;2;6;No;Sí;;2;2;10;No
+Cartas Pokémon;4;20;2;4;Sí;Sí;;5;15;20;Sí
+Yu-Gi-Oh;5;35;2;2;No;Sí;;5;20;40;Sí
+Mysterium;5;42;2;7;Sí;No;;10;10;45;No
+Black Stories (juego de mesa);3;20;3;6;No;Sí;;5;15;30;No
+Zombiecide Prison Outbreak;7;60;1;6;Sí;No;;40;30;999;No
+Dominó;1;5;2;4;Sí;Sí;;1;2;5;No
+Ajedrez;9;60;2;2;No;Sí;;2;5;90;No
+Risk;7;100;2;5;No;Sí;;30;10;60;No
+Dixit;4;30;3;6;No;Sí;;5;5;30;No
+Munchkin;6;60;3;6;No;Sí;;5;15;60;Sí
+Ciudadelas;5;45;2;8;No;Sí;;7;10;35;No
+Ratland;4;37;2;6;No;Sí;;10;10;30;No
+La Búsqueda del Anillo;7;110;2;5;Sí;Sí;;15;20;120;No
+Black Stories ;2;25;2;99;Sí;No;;1;2;30;Sí
+7 Pecados;3;25;2;6;No;Sí;;3;5;10;No
+Timeline;2;15;2;8;No;Sí;;1;2;15;Sí
+Bang;6;30;3;8;No;Sí;;7;15;45;Sí
+Galaxy Trucker;4;60;2;4;No;Sí;;10;15;25;No
+Código Secreto;4;15;2;8;Sí;Sí;;3;10;15;No
+Noria;10;100;1;4;No;Sí;;30;60;180;No
+Caverna vs Caverna;6;30;1;2;No;Sí;;10;15;30;No
+Outlive;7;75;2;4;No;Sí;;20;25;90;No
+Robinson Crusoe;8;90;1;4;Sí;No;;30;30;120;Sí
+Risk El Señor De Los Anillos;7;75;2;4;No;Sí;;25;15;60;No
+Trivial;1;25;2;8;Sí;Sí;;1;1;30;No
+Rick & Morty;5;37;2;4;No;Sí;;10;10;30;No
+Spoilers: The Game;4;30;3;6;No;Sí;;3;5;20;No
+Finstere Flure;3;45;2;7;No;Sí;;5;10;45;No
+Monstruo Final;4;30;2;4;No;Sí;;3;10;30;No
+Gretchinz;4;30;2;4;No;Sí;;2;7;20;No
